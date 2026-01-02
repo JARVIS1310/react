@@ -266,8 +266,8 @@ This project is licensed under the MIT License.
 
 Nikhil Nayak
 
-GitHub: https://github.com/NikhilNayak12
+GitHub: https://github.com/JARVIS1310
 
-LinkedIn: www.linkedin.com/in/nikhilnayak12
+LinkedIn: https://www.linkedin.com/in/harsh001/
 
-Email: nikhil.nayak4561@gmail.com
+Email: kumarchoudharyharsh824@gmail.com
