@@ -111,7 +111,7 @@ Built for Indian logistics & transport use-cases
 ## Installation
 
 - Clone the repository
-git clone https://github.com/NikhilNayak12/Bharat-Connect
+git clone https://github.com/JARVIS1310/react
 - cd Transportation-and-Logistics
 - cd b 
 - Install dependencies
