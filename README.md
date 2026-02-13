@@ -264,7 +264,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Nikhil Nayak
+Harsh Kumar Choudhary
 
 GitHub: https://github.com/JARVIS1310
 
